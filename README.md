@@ -1,3 +1,3 @@
 # hello-world
-jilicat's hello-world repository\n
+jilicat's hello-world repository. 
 Don't panic!
